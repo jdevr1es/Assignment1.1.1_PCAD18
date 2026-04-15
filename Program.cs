@@ -1,4 +1,6 @@
-﻿string name = "John DeVries";
+﻿//Comment 1
+
+string name = "John DeVries";
 int age = 45;
 string address = "123 Main St. Sequim WA 98382";
 
